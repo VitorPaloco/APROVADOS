@@ -7,15 +7,14 @@
 <body>
   <h1>APROVADOS</h1>
 
-  <img src="SitePreview.png" alt="SitePreview">
-  <img src="SitePreview2.png" alt="SitePreview">
+  <img src="img1.png" alt="SitePreview">
+  <img src="img2.png" alt="SitePreview">
 
   <h2>Descrição do Projeto</h2>
   <p>O objetivo do projeto será oferecer uma plataforma onde o aluno possa estudar de forma mais prática e dinâmica, disponibilizando uma biblioteca com milhares de perguntas de diversas disciplinas e matérias..</p>
 
   <h2>Recursos e Funcionalidades</h2>
   <ul>
-      <li>.</li>
       <li>Biblioteca de provas e questões organizadas por matérias.</li>
       <li>Conjunto de métodos para aprimorar seus estudos.</li>
       <li>Sistema focado em melhorar os pontos fracos do usuário. </li>
