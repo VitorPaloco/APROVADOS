@@ -22,9 +22,9 @@
 
   <h2>Tecnologias Utilizadas</h2>
   <ul>
-      <li>HTML5 e CSS3 para a estruturação e estilização da página.</li>
-      <li>JavaScript para interações e funcionalidades dinâmicas (caso aplicável).</li>
-      <li>MySQL para estruturação do Banco de Dados.</li>
+      <li>Backend: JavaScript</li>
+      <li>Frontend: React</li>
+      <li>Banco de Dados: MySQL</li>
     </ul>
 
   <h3>Equipe</h3>
