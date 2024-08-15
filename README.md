@@ -7,9 +7,6 @@
 <body>
   <h1>APROVADOS</h1>
 
-  <img src="img1.png" alt="SitePreview">
-  <img src="img2.png" alt="SitePreview">
-
   <h2>Descrição do Projeto</h2>
   <p>O objetivo do projeto será oferecer uma plataforma onde o aluno possa estudar de forma mais prática e dinâmica, disponibilizando uma interface capaz de usar métodos de estudos eficientes como o Pomodoro e também um sistema de agenda para marcar eventos e construir rotinas de estudos.</p>
 
