@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>APROVADOS</h1>
+  <h1>APROVADOS - Documentação</h1>
 
   <h2>Descrição do Projeto</h2>
   <p>O objetivo do projeto será oferecer uma plataforma onde o aluno possa estudar de forma mais prática e dinâmica, disponibilizando uma interface capaz de usar métodos de estudos eficientes como o Pomodoro e também um sistema de agenda para marcar eventos e construir rotinas de estudos.</p>
@@ -19,9 +19,9 @@
 
   <h2>Tecnologias Utilizadas</h2>
   <ul>
-      <li>Backend: JavaScript</li>
+      <li>Backend: JavaScript - Node</li>
       <li>Frontend: React</li>
-      <li>Banco de Dados: MySQL</li>
+      <li>Banco de Dados: PostgreSQL</li>
     </ul>
 
   <h3>Equipe</h3>
